@@ -117,7 +117,7 @@ Infraestrutura
 
 Docker
 
-    ##🧱 API Endpoints
+    #🧱 API Endpoints
 docker-compose
 
 | Método | Rota                  | Descrição               |
@@ -127,7 +127,7 @@ docker-compose
 | PUT    | `/api/produtos/{id}/` | Atualiza um produto     |
 | DELETE | `/api/produtos/{id}/` | Remove um produto       |
 
-##🎨 Interface do Usuário (Frontend)
+    #🎨 Interface do Usuário (Frontend)
 
 ✔ Formulário de cadastro
 ✔ Listagem dinâmica
