@@ -34,19 +34,32 @@ O sistema permite:
 # 🗂 Estrutura do Projeto
 
 mercado-projeto/
+
 │
+
 ├── backend/
+
 │ ├── Dockerfile
+
 │ ├── requirements.txt
+
 │ ├── manage.py
+
 │ ├── mercado_backend/
+
 │ └── produtos/
+
 │
 ├── frontend/
+
 │ ├── Dockerfile
+
 │ ├── package.json
+
 │ └── src/
+
 │
+
 └── docker-compose.yml
 
 ---
